@@ -18,3 +18,9 @@ Implementación de programas en ensamblador x86 que utilizan instrucciones de pr
 Se implementó la copia de una cadena utilizando REP MOVSB, verificando que el contenido del buffer destino coincide con la cadena original.
 
 ![Checkpoint 1](capturas/checkpoint1.png)
+
+## 2: Copia optimizada con REP MOVSW
+
+Se optimizó la copia de la cadena utilizando REP MOVSW para copiar palabras y MOVSB para el byte restante, obteniendo el mismo resultado.
+
+![Checkpoint 2](capturas/checkpoint2.png)
