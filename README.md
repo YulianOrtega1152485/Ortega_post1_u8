@@ -24,3 +24,9 @@ Se implementó la copia de una cadena utilizando REP MOVSB, verificando que el c
 Se optimizó la copia de la cadena utilizando REP MOVSW para copiar palabras y MOVSB para el byte restante, obteniendo el mismo resultado.
 
 ![Checkpoint 2](capturas/checkpoint2.png)
+
+## 3: Búsqueda con REPNE SCASB
+
+Se implementó la búsqueda de un carácter en una cadena utilizando REPNE SCASB, mostrando la posición cuando se encuentra o un mensaje en caso contrario.
+
+![Checkpoint 3](capturas/checkpoint3.png)
