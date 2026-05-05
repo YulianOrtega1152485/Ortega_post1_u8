@@ -30,3 +30,9 @@ Se optimizó la copia de la cadena utilizando REP MOVSW para copiar palabras y M
 Se implementó la búsqueda de un carácter en una cadena utilizando REPNE SCASB, mostrando la posición cuando se encuentra o un mensaje en caso contrario.
 
 ![Checkpoint 3](capturas/checkpoint3.png)
+
+## 4: Comparación de cadenas con REPE CMPSB
+
+Se compararon cadenas utilizando REPE CMPSB, identificando correctamente casos de igualdad y diferencia.
+
+![Checkpoint 4](capturas/checkpoint4.png)
