@@ -11,3 +11,10 @@ Implementación de programas en ensamblador x86 que utilizan instrucciones de pr
 ## Tecnologías
 - NASM
 - DOSBox
+
+## Evidencias
+## 1: Copia de cadena con REP MOVSB
+
+Se implementó la copia de una cadena utilizando REP MOVSB, verificando que el contenido del buffer destino coincide con la cadena original.
+
+![Checkpoint 1](capturas/checkpoint1.png)
